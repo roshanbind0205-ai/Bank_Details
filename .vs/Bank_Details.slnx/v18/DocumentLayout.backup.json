@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bank_Details\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|d:\\bank_details\\bank_details\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|solutionrelative:bank_details\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|d:\\bank_details\\bank_details\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|solutionrelative:bank_details\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|d:\\bank_details\\bank_details\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|solutionrelative:bank_details\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|d:\\bank_details\\bank_details\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|solutionrelative:bank_details\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|d:\\bank_details\\bank_details\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F32146B-4249-706A-961B-56DF5A332FEA}|Bank_Details\\Bank_Details.csproj|solutionrelative:bank_details\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Bank_Details\\Bank_Details\\Transaction.cs",
+              "RelativeDocumentMoniker": "Bank_Details\\Transaction.cs",
+              "ToolTip": "D:\\Bank_Details\\Bank_Details\\Transaction.cs",
+              "RelativeToolTip": "Bank_Details\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T04:29:09.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank_Account.cs",
+              "DocumentMoniker": "D:\\Bank_Details\\Bank_Details\\Bank_Account.cs",
+              "RelativeDocumentMoniker": "Bank_Details\\Bank_Account.cs",
+              "ToolTip": "D:\\Bank_Details\\Bank_Details\\Bank_Account.cs",
+              "RelativeToolTip": "Bank_Details\\Bank_Account.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAIwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T07:03:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Bank_Details\\Bank_Details\\Person.cs",
+              "RelativeDocumentMoniker": "Bank_Details\\Person.cs",
+              "ToolTip": "D:\\Bank_Details\\Bank_Details\\Person.cs",
+              "RelativeToolTip": "Bank_Details\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T06:22:25.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Bank_Details\\Bank_Details\\Currency.cs",
+              "RelativeDocumentMoniker": "Bank_Details\\Currency.cs",
+              "ToolTip": "D:\\Bank_Details\\Bank_Details\\Currency.cs",
+              "RelativeToolTip": "Bank_Details\\Currency.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T06:22:08.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bank_Details\\Bank_Details\\Program.cs",
+              "RelativeDocumentMoniker": "Bank_Details\\Program.cs",
+              "ToolTip": "D:\\Bank_Details\\Bank_Details\\Program.cs",
+              "RelativeToolTip": "Bank_Details\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:11:14.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
